@@ -1,0 +1,11 @@
+server:
+ port: 8090
+
+ spring:
+  application:
+   name: block-mail-auth
+
+logging:
+ level:
+  com:
+   predic8: WARN
